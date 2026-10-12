@@ -1,0 +1,19 @@
+# Checkpoints & model weights
+*.pt
+*.pth
+*.bin
+*.tar.gz
+*.zip
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+env/
+venv/
+
+# Environment / OS
+.DS_Store
+Thumbs.db
